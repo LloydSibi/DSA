@@ -1,5 +1,6 @@
 /*
 	Program to implement circular queue in C
+	Author : Lloyd Sibi
 */
 
 #include<stdio.h>
