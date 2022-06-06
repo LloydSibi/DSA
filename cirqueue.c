@@ -1,3 +1,7 @@
+/*
+	Program to implement circular queue in C
+*/
+
 #include<stdio.h>
 int queue_array[50],size,operation;
 int front = -1, rear = -1; 
